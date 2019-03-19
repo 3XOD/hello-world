@@ -1,2 +1,2 @@
 # hello-world
-This is my first attempt creating a git hub account
+This is my first attempt creating a github repository
